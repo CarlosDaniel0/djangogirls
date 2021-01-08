@@ -7,8 +7,6 @@ $ python3 -m menv myenv
 $ source myenv/bin/activate
 (myenv) $ pip install -r requirements.txt
 (myenv) $ python manage.py migrate
-(myenv) $ python manage.py makemigrations blog
-(myenv) $ python manage.py migrate blog
 (myenv) $ python manage.py createsuperuser
 ``` 
 
