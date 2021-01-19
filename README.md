@@ -14,3 +14,6 @@ $ source myenv/bin/activate
 ```
 (myenv) $ python manage.py runserver
 ```
+
+# Acessar Site
+http://carlosdaniel0.pythonanywhere.com/
